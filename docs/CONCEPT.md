@@ -1,27 +1,24 @@
-# Concept — Meta Glasses Job Coach
+# Concept — Parkinson's Memory Coach
 
 ## Mission
-Enable adults with intellectual and developmental disabilities (IDD) to work independently with AI-assisted real-time support.
+Provide discreet, real-time memory and safety support for people with Parkinson’s through everyday Meta Ray-Ban smart glasses. Gentle audio prompts only when truly needed — no screens, no wake words.
 
 ## Primary User
-Brian — Jim O'Donnell's son. Autistic. Capable of structured work with coaching support.
+Jim's father — word-finding difficulties (names, terms) and safety risks (freezing, disorientation). Built first for him, open to help others.
 
 ## Core Capabilities
+- Memory & Word Recall: Detect hesitation → supply word/name via bone-conduction audio. Personalized local memory store.
+- Safety: Camera-based detection of issues → quiet guidance.
+- Principles: Privacy-first, local processing preferred, dignity-respecting, passive.
 
-### 1. Job Task Coaching
-DSP (Direct Support Professional) records job workflows step-by-step with Brian during training. System replays prompts via audio during actual shifts.
+## Technical Foundation
+- Kotlin/Android multi-module (app, core, stt, wearable).
+- Meta Wearables DAT SDK.
+- STT (Google + planned on-device).
+- MockDeviceKit for testing.
+- OpenShift ready if needed.
 
-### 2. Danger Steering
-Real-time scene understanding detects unsafe situations (hot surfaces, restricted areas, social conflicts). Audio alerts guide Brian to safety.
+## Getting Involved
+See CONTRIBUTING.md. Welcome: feedback from Parkinson's community, code (pause detection, vision, memory), testing, docs.
 
-### 3. Social Navigation
-Context-aware prompts for common social interactions: restaurant ordering, checkout conversations, small talk with coworkers.
-
-## Market
-~5.4M adults with IDD in the US. Current employment rate: <20%. Assistive tech for this population is massively underserved.
-
-## Why Edge AI
-Privacy, dignity, and real-time responsiveness. No cloud dependency. Runs locally on glasses + edge server.
-
-## Next Steps
-See GitHub issues for implementation roadmap.
+License: Apache 2.0
