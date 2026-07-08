@@ -32,7 +32,7 @@ The basic technical foundation is already built. The next steps are making the s
 
 ## Get Involved
 
-This is a personal project, not an official Red Hat initiative. Feedback, ideas, and contributions are very welcome — especially from people living with Parkinson’s or supporting someone who is.
+This is an open project. Feedback, ideas, and contributions are very welcome — especially from people living with Parkinson’s or supporting someone who is.
 
 ## License
 
