@@ -20,9 +20,7 @@ Current tools usually require looking at a phone or asking someone else for help
 
 ## Who This Is For
 
-Right now this is being built for Jim O’Donnell’s father, who has Parkinson’s and memory challenges. He uses a Samsung Galaxy Z Flip phone and a Hero smart pill dispenser.
-
-The goal is to create something that could eventually help many other families in the same situation.
+This project is being built with one family in mind, but the goal is to create something that could eventually help many other families dealing with Parkinson’s and memory loss.
 
 ## How It Works
 
